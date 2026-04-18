@@ -1,8 +1,8 @@
 # 🚀 SQE Lab 1: String Utilities Module (Graded Task)
 
 ## 👤 Student Information
-**Name:** Hira Tanveer  
-**Registration ID:** FA23-BSE-030  
+**Name:** Muhammad Suliman
+**Registration ID:** FA23-BSE-047
 **Course:** Software Quality Engineering (SQE)  
 **University:** Mirpur University of Science and Technology (MUST)
 
@@ -24,7 +24,7 @@ This project implements a **String Utilities Module** (`string_utils.py`) with 6
 ## ✅ Test Execution Results
 I have implemented **19 individual test cases** covering all 6 functions. 
 
-![Test Results](./graded_tests.png)
+![Test Results](./terminal_test.png)
 
 ---
 
