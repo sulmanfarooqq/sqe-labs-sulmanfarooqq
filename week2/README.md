@@ -12,7 +12,7 @@ Students:
 
 Roll numbers:
 - FA23-BSE-047
-- FA23-BSE-047
+- FA23-BSE-043
 
 Main work completed:
 - ISO 25010 quality analysis
